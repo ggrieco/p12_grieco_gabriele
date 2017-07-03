@@ -19,6 +19,6 @@ Compilazione:
 -nella cartella contenente l'intero progetto creare una nuova source folder chiamata test_strutturali
 -nella nuova source folder creare un nuovo package chiamato "prenotazioneItinerario"
 -copiare tutti i file contenuti nella directory test_strutturali/prenotazioneItinerario nel nuovo package creato
--se i file presentano errori importare la libreria JUnit4 (io la ho importata con tasto destro sulla cartella del progetto->Build Path       ->AddLibraries->JUnit->JUnit4
+-se i file presentano errori importare la libreria JUnit4 (io l'ho importata con tasto destro sulla cartella del progetto->Build Path       ->AddLibraries->JUnit->JUnit4
 
 -per i test funzionali la procedura è analoga a quella descritta per i test strutturali, prendendo i file dalla directory                   test_funzionali/prenotazioneItinerario
